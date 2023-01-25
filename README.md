@@ -2,7 +2,7 @@
 
 
 
-**Clone the project**. git clone https://github.com/polinazolotukhina/blog-with-comments.git
+**Clone the project**. git clone https://github.com/helper3876051/blog.git
 
 **Go to the folder **. cd blog-with-comments
 
