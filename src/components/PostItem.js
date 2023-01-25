@@ -3,7 +3,6 @@ import { FlatButton } from 'material-ui';
 import { browserHistory } from 'react-router';
 import Remove from '../components/Remove';
 
-
 export default class  PostItem extends Component {
   render() {
       const { post, id, comments } = this.props;
